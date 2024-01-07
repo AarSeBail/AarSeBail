@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AarSeBail
 - 👀 I’m a mathematics major
-- 🌱 I'm currently learning analysis & algebra
+- 🌱 My study list grows faster than my studied list
 - I like to write programs in julia and rust
-- I have an interest in graph neural networks
+- I like learning about graph neural networks, reachability analysis, and high performance computing
 
 <!---
 AarSeBail/AarSeBail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
