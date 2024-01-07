@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AarSeBail
-- 👀 I’m a mathematics major
-- 🌱 My study list grows faster than my studied list
+- Hi, I’m @AarSeBail
+- I’m a mathematics major
+- My study list grows faster than my studied list
 - I like to write programs in julia and rust
 - I like learning about graph neural networks, reachability analysis, and high performance computing
 
