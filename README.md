@@ -1,8 +1,7 @@
-- Hi, I’m @AarSeBail
-- I’m a mathematics major
-- I am doing research in graph theory and differential equations
+- I’m a mathematics major and prospective CS PhD
+- I am doing research on topological graph embeddings
 - I like to write programs in julia and rust
-- I like learning about graph neural networks, reachability analysis and high performance computing
+- I am currently reading HoTT, Algebraic Topology (Hatcher), and Algebra (Lang) - one can never know enough algebra
 
 <!---
 AarSeBail/AarSeBail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
