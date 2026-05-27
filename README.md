@@ -16,10 +16,7 @@
 </div>
 -->
 <div align="center">
-Currently a CS PhD Student at University of Tennessee - Knoxville.<br>
-Likes to read<br>
-Likes to code<br>
-Has the rust bug<br>
-... no you can't cure me<br>
-Check out my projects... or don't
+Industrial engineering PhD student<br>
+Probability enjoyer... bad at it<br>
+I am currently working with POMDPs, HMMs, and SSMs.
 </div>
